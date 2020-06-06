@@ -3,7 +3,7 @@ db_password= "password"
 ecs_cluster="film_ratings_cluster"
 ecs_key_pair_name="film_ratings_key_pair"
 region= "eu-west-1"
-film_ratings_app_image= "chrishowejones/film-ratings-app:latest"
+film_ratings_app_image= "simonkatz/film-ratings-app:latest"
 
 # no need to change these unless you want to
 film_ratings_vpc = "film_ratings_vpc"
